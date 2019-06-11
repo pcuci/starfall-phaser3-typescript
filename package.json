@@ -5,7 +5,8 @@
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",
-    "start": "webpack-dev-server"
+    "start": "webpack-dev-server",
+    "perf": "bash ./code/fps.sh"
   },
   "author": "Mariya Davydova",
   "license": "MIT",
