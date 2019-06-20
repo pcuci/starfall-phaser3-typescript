@@ -11,7 +11,7 @@
     "data:import": "sh ./code/import.sh",
     "data:predict": "node ./code/predict.js"
   },
-  "author": "Mariya Davydova",
+  "author": "Paul Cuciureanu",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.11.1",

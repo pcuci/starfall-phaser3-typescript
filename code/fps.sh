@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '{ "fps": "31" }' > "./metrics/fps.json"
+echo "{ \"fps\": \"$(shuf -i 15-45 -n 1)\" }" > "./metrics/fps.json"
