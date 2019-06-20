@@ -1,2 +1,1 @@
-#!/bin/env bash
-echo '{ "fps": "31" }' > "./metrics/fps.json"
+{ "fps": "31" }

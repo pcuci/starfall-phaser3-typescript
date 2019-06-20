@@ -1,0 +1,12 @@
+md5: 76c98343080f0edb925d7e3a979d9617
+cmd: node code/predict.js
+wdir: .
+deps:
+- md5: 900df279dd4e3b9ad1736bca209097bd
+  path: data/data/last-month-scores.json
+outs:
+- md5: fe3948e523691731345216cc0755d8f2
+  path: metrics/average.json
+  cache: false
+  metric: true
+  persist: false

@@ -1,0 +1,12 @@
+md5: be75bcb3e4a5e7c64a34a11922e86a9c
+cmd: bash code/import.sh
+wdir: .
+deps:
+- md5: 4bf65d083ac1d85c6c636c2dec0ca429
+  path: code/import.sh
+outs:
+- md5: 900df279dd4e3b9ad1736bca209097bd
+  path: data/data/last-month-scores.json
+  cache: true
+  metric: false
+  persist: false
