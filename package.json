@@ -7,7 +7,9 @@
     "build": "webpack",
     "start": "webpack-dev-server",
     "perf": "bash ./code/fps.sh",
-    "deploy": "sh ./code/deploy.sh"
+    "deploy": "sh ./code/deploy.sh",
+    "data:import": "sh ./code/import.sh",
+    "data:predict": "node ./code/predict.js"
   },
   "author": "Mariya Davydova",
   "license": "MIT",
