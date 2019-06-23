@@ -1,8 +1,8 @@
-md5: 239bb8a45777d7826cb26b76b7ec7159
+md5: 790d5671c4f4dd69eaca5d9847a4db03
 cmd: code/fps.sh
 wdir: .
 outs:
-- md5: 771057ebf45ca9c2b164610d02e5524f
+- md5: 63010dbd3db7f5f9129ba42eadb0cede
   path: metrics/fps.json
   cache: false
   metric: true

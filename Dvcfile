@@ -1,13 +1,13 @@
-md5: c331118284950fff055e92b32ad15962
+md5: 9489a6aa9c49043d2ca3593236c4d4d3
 cmd: code/deploy.sh
 wdir: .
 deps:
 - md5: fe3948e523691731345216cc0755d8f2
   path: metrics/average.json
-- md5: 771057ebf45ca9c2b164610d02e5524f
+- md5: 63010dbd3db7f5f9129ba42eadb0cede
   path: metrics/fps.json
 outs:
-- md5: 306f9c393b006013ce73937ebef6a075
+- md5: 8e735c09e9bbb2fd84413b9efa51b923
   path: data/starfall.tgz
   cache: true
   metric: false
