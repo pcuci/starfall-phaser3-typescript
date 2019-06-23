@@ -1,5 +1,5 @@
 {
-  "name": "Starfall",
+  "name": "starfall",
   "version": "0.1.2",
   "description": "Starfall game (Phaser 3 + TypeScript)",
   "main": "webpack.config.js",
