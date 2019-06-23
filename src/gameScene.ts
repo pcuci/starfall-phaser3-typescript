@@ -22,7 +22,7 @@ export class GameScene extends Phaser.Scene {
   }
 
   preload(): void {
-    this.load.setBaseURL("http://localhost:8080");
+    //this.load.setBaseURL();
     this.load.image("star", "assets/star.png");
     this.load.image("sand", "assets/sand.jpg");
   }
