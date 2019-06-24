@@ -1,7 +1,7 @@
 {
-  "name": "starfall",
+  "name": "waterfall",
   "version": "0.1.4",
-  "description": "Starfall game (Phaser 3 + TypeScript)",
+  "description": "Waterfall game (Phaser 3 + TypeScript)",
   "main": "webpack.config.js",
   "scripts": {
     "build": "webpack",

@@ -4,7 +4,7 @@ import { GameScene } from "./gameScene";
 import { ScoreScene } from "./scoreScene";
 
 const config: GameConfig = {
-  title: "Starfall",
+  title: "Waterfall",
   width: 800,
   height: 600,
   parent: "game",
